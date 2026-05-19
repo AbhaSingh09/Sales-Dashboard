@@ -3,7 +3,7 @@
 ## 1. Project Title
 Sales & Profit Dashboard
 
-## 2. Short Description / Purpose
+## 2. Purpose
 A business intelligence dashboard designed to track **sales performance, profit trends, and customer growth** across multiple years, product categories, and regions.  
 The purpose is to provide actionable insights for decision-making in sales strategy and resource allocation.
 
