@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# Sales & Profit Dashboard
 
 ## 1. Project Title
 Sales & Profit Dashboard
