@@ -33,9 +33,6 @@ The purpose is to provide actionable insights for decision-making in sales strat
   - Highlight regional sales concentration (California leading)
 
 ## 6. Demo
-Interactive dashboard available in Power BI / Tableau (add hosted link if available).
-
-## 7. Example
 ![Dashboard Preview](https://github.com/AbhaSingh09/Sales-Dashboard/blob/main/Screenshot%202026-05-19%20213458.png)
 
    
